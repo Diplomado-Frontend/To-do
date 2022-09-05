@@ -14,6 +14,7 @@ function App() {
         const tasksFromLocalStorage = JSON.parse(localStorage.getItem('tasks')) ?? [];
         setTasks(tasksFromLocalStorage);
     }
+    
     getTasksFromLocalStorage();
   }, []);
   
