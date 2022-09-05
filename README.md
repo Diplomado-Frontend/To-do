@@ -4,6 +4,8 @@ Create application React + Vite which is used for register tasks to be done and 
 
 ### Production execution 🚀
 
+If is the firts execution, please press F5 until the application loads:
+
 https://to-do-front.herokuapp.com/
 
 ### Local pre-requirements 📋
